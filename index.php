@@ -7,7 +7,8 @@
     <body>
         <?php
         //put your code here
-        echo 'hi there!';
+        $temp = ' Jim';
+        echo 'Hi, my name is' . $temp;
         ?>
     </body>
 </html>
