@@ -7,7 +7,7 @@
     <body>
         <?php
         //put your code here
-        echo "hi there!";
+        echo 'hi there!';
         ?>
     </body>
 </html>
